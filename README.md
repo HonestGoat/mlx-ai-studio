@@ -1,5 +1,5 @@
 # MLX AI Studio
-**The Universal AI Platform for Apple Silicon (Currently Pre-Alpha - Expected initial test release in Q2 2026)**
+**The Universal AI Platform for Apple Silicon (Expected initial test release in Q2-Q3 2026)**
 
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE)
 [![Platform](https://img.shields.io/badge/Platform-Apple_Silicon-black?logo=apple)](https://support.apple.com/en-us/HT211814)
